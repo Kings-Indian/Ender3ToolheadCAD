@@ -1,4 +1,4 @@
-# Ender3Toolhead Development Journal
+
 
 **Total Time Spent: 26 hours**
 
