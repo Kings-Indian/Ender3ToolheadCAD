@@ -1,4 +1,4 @@
-# Ender3Toolhead - Advanced Linear Rail Toolhead Upgrade
+# Ender3Toolhead
 
 ## Project Description
 This is a toolhead for an Ender 3 :D I used a Lancer Long hotend and a cpap fan for part cooling :)
