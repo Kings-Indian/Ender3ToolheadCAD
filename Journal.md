@@ -1,6 +1,6 @@
 
 
-**Total Time Spent: 26 hours**
+
 
 ---
 title: "Ender3Toolhead"
@@ -8,6 +8,8 @@ author: "Tanishq"
 description: "This is a toolhead designed around an ender 3"
 created_at: "2025-05-28"
 ---
+
+**Total Time Spent: 26 hours**
 ## I Decided the Scope of My Project
 
 - It will be on a 300 mm Stainless Steel MGN12H Linear Guide. Linear rails are stiffer, more precise, and simpler to mount than linear rods, reducing backlash and ringing artifacts in 3D printing. Unlike rods, a single rail can achieve linear motion without rotation, making setups lighter.
