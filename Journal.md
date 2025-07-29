@@ -2,10 +2,10 @@
 
 
 ---
-title: Ender3 Toolhead
-author: Tanishq Goyal
-description: A custom toolhead designed for the Ender 3 platform.
-date: 2025-05-28
+title: "Ender3 Toolhead"
+author: "Tanishq Goyal"
+description: "A custom toolhead designed for the Ender 3 platform."
+date: "2025-05-28"
 ---
 
 **Total Time Spent: 26 hours**
