@@ -36,7 +36,7 @@ I'm using a lancer long with a CHT Volcano Nozzle. For the cooling I'll use a 30
 
 ---
 
-# July 1st: Electronics and Control System Design
+# July 21st: Electronics and Control System Design
 
 I decided the following changes:
 
