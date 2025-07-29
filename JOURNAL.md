@@ -5,13 +5,6 @@ description: "A custom toolhead designed for the Ender 3 platform."
 created_at: "2025-05-28"
 ---
 
----
-title: "Put Me Down"
-author: "Tanishq Goyal"
-description: "A Vertical Heatpress for Threaded Inserts"
-created_at: "2025-15-25"
----
-
 **Total Time Spent: 26 hours**
 ## I Decided the Scope of My Project
 
