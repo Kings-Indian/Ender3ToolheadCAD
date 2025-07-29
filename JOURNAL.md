@@ -1,11 +1,8 @@
-
-
-
 ---
 title: "Ender3 Toolhead"
 author: "Tanishq Goyal"
 description: "A custom toolhead designed for the Ender 3 platform."
-date: "2025-05-28"
+created_at: "2025-05-28"
 ---
 
 ---
