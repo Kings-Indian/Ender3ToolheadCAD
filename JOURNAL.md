@@ -4,7 +4,7 @@ author: "Tanishq Goyal"
 description: "A custom toolhead designed for the Ender 3 platform."
 created_at: "2025-05-28"
 ---
-
+### **May 28, 2025** - 1 hour spent
 **Total Time Spent: 26 hours**
 ## I Decided the Scope of My Project
 
@@ -15,7 +15,7 @@ created_at: "2025-05-28"
 - Cooling will likely have a 2510 fan on the hotend and two 5015s on the nozzle.
 - The Hot End will most likely be a Dragon Hotend UHF due to its impressive flow rate of 70.5 mm³/s.
 
-### **May 28, 2025** - 1 hour spent
+
 ### **June 29-30, 2025** - So I forgot to commit so everything got delelted but heres a rundown opf the p[ast few days:
 
 1. Im using a lancer long with a  CHT Volcano Nozzle. <img width="610" height="696" alt="image" src="https://github.com/user-attachments/assets/e57756fc-0448-4793-b0b8-577a360abb73" /> <img width="1075" height="784" alt="image" src="https://github.com/user-attachments/assets/e2f5b49b-0e2d-49c0-a956-1b319651f213" />
