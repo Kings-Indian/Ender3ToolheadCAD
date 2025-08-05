@@ -119,3 +119,5 @@ I honestly can't find a single improvement I can do with a new case. (I also dec
 
 **Total time spent: .5 hr**
 
+8/6/25
+I fixed the BTT microprobe location and made the ducts shoot lower : 
